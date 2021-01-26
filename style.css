@@ -12,12 +12,11 @@ nav {
 }
 section {
     margin: auto;
-    width: 40%;
-    margin-top: 60px;
+    width: 70%;
+    margin-top: 15px;
     border-radius: 6px;
     padding: 2%;
-    height: 70px;
-    border: 2px solid rgb(88, 145, 162);
+    height: 300px;
     text-align: center;
     color: rgb(116, 186, 208);
     font-size: small;
