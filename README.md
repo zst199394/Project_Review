@@ -1,5 +1,5 @@
-# Project
-## Group:
+# Group Project -1: 
+## Group Intfo:
 * Group Name : WMSN Develop Group
 * Project Name : Homonym, Sy what?
 * URL :
@@ -54,4 +54,4 @@ This project fulfill the following requirements:
 * Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).
 ​
 * Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
-
+​
