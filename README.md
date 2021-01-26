@@ -1,7 +1,7 @@
 # Group Project -1: 
 ## Group Intfo:
 * Group Name : WMSN Develop Group
-* Project Name : Homonym, Sy what?
+* Project Name : Homonym, Say what?
 * URL :
 
 ## Developers:
